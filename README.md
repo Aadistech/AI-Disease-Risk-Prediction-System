@@ -1,4 +1,4 @@
-# AI Disease Risk Prediction System
+# AI-Powered Multi-Disease Risk Prediction System
 
 An AI-powered diabetes risk prediction project using Python, Pandas,
 Scikit-learn, and Streamlit.
